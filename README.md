@@ -9,6 +9,7 @@ Note: The article is not uploaded yet, it is still under construction [only in d
     -   [day 01 to 02](#day-01-to-02)
         -   [day 01: Choosing the course](#day-01)
         -   [day 02: Why React](#day-02)
+    -   [day 03 : Getting Started](#day-03)
 -   [Author](#Author)
 
 # Introduction
@@ -25,7 +26,9 @@ This repo contains the full code and also some additional notes for 30-day-React
 
 Because there is no written code at the beginning of the learning journey, just basics to get started, so only links and pictures will be uploaded.
 
-### day 01: Choosing the course
+### day-01
+
+Choosing the course
 
 ![react home page](./image/react%20home%20page.jpeg)
 
@@ -39,7 +42,9 @@ Because there is no written code at the beginning of the learning journey, just 
         -   [React Docs](https://reactjs.org/docs/getting-started.html)
         -   [w3schools React Tutorial](https://www.w3schools.com/REACT/DEFAULT.ASP)
 
-### day 02: Why React
+### day-02
+
+Why React?
 
 -   before starting you must at least know the following:
 
@@ -54,12 +59,22 @@ Because there is no written code at the beginning of the learning journey, just 
     -   What is a library?
     -   why react?
 
-![react meme](./image/react%20meme.png)
+![react meme](./image/memes/react%20meme.png)
+
+## day-03
+
+-   how do we start using React?
+    -   [CDN Links](https://reactjs.org/docs/cdn-links.html)
+    -   [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
+    -   [vite](https://vitejs.dev/) create-react-app
+
+![react meme](./image/memes/creat%20react%20meme.jpg)
 
 # Author
 
--   professional links 👔 -[twitter](https://twitter.com/hafanwi)
+-   professional links 👔
 
+    -   [twitter](https://twitter.com/hafanwi)
     -   [LinkedIn](https://linkedin.com/in/youssef-hafnawy-348221204/)
     -   [GitHub](https://github.com/ymhaah)
 
