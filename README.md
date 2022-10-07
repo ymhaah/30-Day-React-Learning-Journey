@@ -1,7 +1,6 @@
 # 30-day-React-Learning-Journey
 
-The code and notes here are part of: [30-day-React-Learning-Journey]() article.
-Note: The article is not uploaded yet, it is still under construction [only in day 0 to 04 commits]
+The code and notes here are part of: [30-day-React-Learning-Journey](https://dev.to/ymhaah/30-day-react-learning-journey-part-1-14od) article.
 
 ## Table of contents.
 
@@ -10,6 +9,8 @@ Note: The article is not uploaded yet, it is still under construction [only in d
         -   [day 01: Choosing the course](#day-01)
         -   [day 02: Why React](#day-02)
     -   [day 03 : Getting Started](#day-03)
+    -   [day 04 : the first line](#day-04)
+-   [Conclusion](#Conclusion)
 -   [Author](#Author)
 
 # Introduction
@@ -70,6 +71,26 @@ Why React?
 
 ![react meme](./image/memes/creat%20react%20meme.jpg)
 
+## day-04
+
+-   Topics talked about:
+    -   add an`<main id="app"></main>`.
+    -   Create a variable and link it to the element you create.
+    -   What is `createRoot()`.
+    -   What is ReactDOM.
+    -   What is `render()`.
+    -   Congratulations, you have used React for the first time.
+
+# Conclusion
+
+Thank you to anyone who reads this article, I promise to anyone who reads this article that I will complete the entire journey.
+
+-   I would like to hear your opinions about the article?
+    -   What was missing?
+    -   Did you like the use of the meme in the article?
+    -   Should I add more or fewer details?
+    -   Do I add more explanation or cut it out and only talk about the experience?
+
 # Author
 
 -   professional links 👔
@@ -85,4 +106,4 @@ Why React?
 
 -   Blog 📑
     -   [hashNode](https://hafnawi.hashnode.dev)
-    -   [dev](https://dev.to/ymhaah)
+    -   [dev.to](https://dev.to/ymhaah)
