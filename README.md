@@ -1,15 +1,20 @@
 # 30-day-React-Learning-Journey
 
-The code and notes here are part of: [30-day-React-Learning-Journey](https://dev.to/ymhaah/30-day-react-learning-journey-part-1-14od) article.
+The code and notes here are part of: [30-day-React-Learning-Journey](https://dev.to/ymhaah/series/20473) Series.
 
 ## Table of contents.
 
 -   [Introduction](#Introduction)
+-   [part-1](#part-1)
     -   [day 01 to 02](#day-01-to-02)
         -   [day 01: Choosing the course](#day-01)
         -   [day 02: Why React](#day-02)
     -   [day 03 : Getting Started](#day-03)
     -   [day 04 : the first line](#day-04)
+-   [part-2](#part-2)
+    -   [day 5 : JS vs JSX](#day-5)
+    -   [day-6 : JSX basics](#day-5)
+    -   [day-7 : JSX with JS](#day-7)
 -   [Conclusion](#Conclusion)
 -   [Author](#Author)
 
@@ -17,11 +22,28 @@ The code and notes here are part of: [30-day-React-Learning-Journey](https://dev
 
 This repo contains the full code and also some additional notes for 30-day-React-Learning-Journey article by [Youssef Hafnawy](https://twitter.com/hafanwi).
 
+📚 I know you're lazy so I collected all my tweets about React on → [React-Tweet](https://iodized-crawdad-abc.notion.site/React-Tweets-631ddc8f9b6e467e996161026bbb0acc)
+
+📚 I have also compiled all the explanations on one page for you → [React-Summary](https://iodized-crawdad-abc.notion.site/React-summary-065b74152727409b8197b656226bf041)
+
 -   you can find here all the links and photos collected in one place.
 -   The full explanation and details of the trip will be in the article.
 
 -   Notes: You can view each part of the Journey individually from the Commits section
     -   This article has more than one source of pleasure. You may find links that lead to different sources according to each commit
+
+# part-1
+
+we talked in this part about:
+
+-   Suggestions for learning resources.
+-   Why you should learn React.
+-   how to get started.
+-   wrote our first line in React.
+
+All this with sharing my personal learning experience and some tips + a simplified explanation of what I learned.
+
+[30-Day React Learning Journey! part 1](https://dev.to/ymhaah/30-day-react-learning-journey-part-1-14od)
 
 ## day 01 to 02
 
@@ -31,7 +53,7 @@ Because there is no written code at the beginning of the learning journey, just 
 
 Choosing the course
 
-![react home page](./image/react%20home%20page.jpeg)
+![react home page](./part%201%20day%200%20to%204/react%20home%20page.jpeg)
 
 -   Suggested learning resources:
     -   YouTube
@@ -60,7 +82,7 @@ Why React?
     -   What is a library?
     -   why react?
 
-![react meme](./image/memes/react%20meme.png)
+![react meme](./part%201%20day%200%20to%204/memes/react%20kanie%20meme.png)
 
 ## day-03
 
@@ -69,7 +91,7 @@ Why React?
     -   [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
     -   [vite](https://vitejs.dev/) create-react-app
 
-![react meme](./image/memes/creat%20react%20meme.jpg)
+![react meme](./part%201%20day%200%20to%204/memes/creat%20react%20meme.jpg)
 
 ## day-04
 
@@ -80,6 +102,37 @@ Why React?
     -   What is ReactDOM.
     -   What is `render()`.
     -   Congratulations, you have used React for the first time.
+
+# part-2
+
+We will continue from day 5 to day 7, and we talked in this part about:
+
+-   JSX basics
+-   JSX vs JS
+-   JSX with JS
+
+## day-5
+
+![react meme](./part%202%20day%205%20to%2010/memes/jsx%20meme.jpg)
+
+-   [React docs: JSX](https://reactjs.org/docs/introducing-jsx.html)
+-   Topics talked about:
+    -   Create and add an element to DOM using just JS
+    -   Create and add an element to DOM using JSX
+    -   First impression about JSX
+
+## day-6
+
+-   [React docs: React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
+-   Topics talked about:
+    -   link a JSX element to a variable
+    -   using it with a function or if
+    -   butting JSX inside an array or an object
+    -   using a class with JSX or an attributes
+
+## day-7
+
+![react meme](./part%202%20day%205%20to%2010/memes/jsx%20meme%202.jpg)
 
 # Conclusion
 
@@ -93,17 +146,14 @@ Thank you to anyone who reads this article, I promise to anyone who reads this a
 
 # Author
 
--   professional links 👔
-
-    -   [twitter](https://twitter.com/hafanwi)
-    -   [LinkedIn](https://linkedin.com/in/youssef-hafnawy-348221204/)
+-   professional links:
+    -   [Twitter](https://twitter.com/hafanwi)
+    -   [LinkedIn](https://www.linkedin.com/in/youssef-hafnawy/)
     -   [GitHub](https://github.com/ymhaah)
-
--   Hire me on 🪙
-
-    -   [UpWork](https://upwork.com/freelancers/~01acd8e5370e5646aa)
+-   Hire me:
+    -   [UpWork](https://www.upwork.com/services/product/development-it-a-custom-and-responsive-websites-in-wordpress-1577236892828233728?ref=project_share)
     -   [Freelancer](https://freelancer.com/u/ymhaah)
-
--   Blog 📑
-    -   [hashNode](https://hafnawi.hashnode.dev)
-    -   [dev.to](https://dev.to/ymhaah)
+-   Blog:
+    -   [HashNode](https://hafnawi.hashnode.dev/)
+    -   [Dev.to](https://dev.to/ymhaah)
+    -   [Medium](https://medium.com/@ymhaah250)
